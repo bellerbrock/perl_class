@@ -1,0 +1,1 @@
+For next class, create a new script based on read_genotypes.pl that calculates the percent similarity between two accessions based on their marker scores!
