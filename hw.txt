@@ -1,1 +1,12 @@
+Homework 3/9/16
+
 For next class, create a new script based on read_genotypes.pl that calculates the percent similarity between two accessions based on their marker scores!
+
+Additional Questions that can be answered using the same genotypes.txt file:
+Does this percent similarity vary across different chromosomes? What chromosome is the most similar between the two accessions? The least similar?
+
+Is one accession significantly more heterozygous than the other?
+
+Which of the two accessions has the fewest variant alleles compared to the reference genome?
+
+BONUS EXTRA CREDIT: A new file, '10genotypes.txt', has been added to this repository. Can you create a new version of your script that can compare 10 different genotypes, not just 2? 
